@@ -1,0 +1,819 @@
+snapshot_date,model_id,model_name,category,variant,output_spec,quality,provider,provider_tier,official,input,price_usd,price_usd_max,unit,estimated,model_page
+2026-10-30,elevenlabs/eleven-v3,ElevenLabs Eleven v3,audio,,characters: 1000,,ElevenLabs,,true,,0.08,0.08,1K characters,false,https://yir.ai/models/eleven-v3
+2026-10-30,bfl/flux-2-flex,FLUX.2 Flex,image,,1MP,,APIMart,,false,,0.04,0.04,image,false,https://yir.ai/models/flux-2-flex
+2026-10-30,bfl/flux-2-flex,FLUX.2 Flex,image,,1MP,,Black Forest Labs,,true,,0.05,0.05,image,false,https://yir.ai/models/flux-2-flex
+2026-10-30,bfl/flux-2-flex,FLUX.2 Flex,image,,1MP,,FAL,,false,,0.05,0.05,image,false,https://yir.ai/models/flux-2-flex
+2026-10-30,bfl/flux-2-max,FLUX.2 Max,image,,1MP,,APIMart,,false,,0.056,0.056,image,false,https://yir.ai/models/flux-2-max
+2026-10-30,bfl/flux-2-max,FLUX.2 Max,image,,1MP,,Black Forest Labs,,true,,0.07,0.07,image,false,https://yir.ai/models/flux-2-max
+2026-10-30,bfl/flux-2-max,FLUX.2 Max,image,,1MP,,FAL,,false,,0.07,0.07,image,false,https://yir.ai/models/flux-2-max
+2026-10-30,bfl/flux-2-pro,FLUX.2 Pro,image,,1MP,,APIMart,,false,,0.024,0.036,image,false,https://yir.ai/models/flux-2-pro
+2026-10-30,bfl/flux-2-pro,FLUX.2 Pro,image,,1MP,,Black Forest Labs,,true,,0.03,0.045,image,false,https://yir.ai/models/flux-2-pro
+2026-10-30,bfl/flux-2-pro,FLUX.2 Pro,image,,1MP,,FAL,,false,text,0.03,0.03,image,false,https://yir.ai/models/flux-2-pro
+2026-10-30,bfl/flux-2-pro,FLUX.2 Pro,image,,1MP,,FAL,,false,image,0.045,0.045,image,true,https://yir.ai/models/flux-2-pro
+2026-10-30,bfl/flux-3-video,FLUX 3 Video,video,,4K,,Black Forest Labs,,true,,0.41,0.41,second,false,https://yir.ai/models/flux-3-video
+2026-10-30,bfl/flux-3-video,FLUX 3 Video,video,,4K,,FAL,,false,,0.47,0.47,second,false,https://yir.ai/models/flux-3-video
+2026-10-30,bfl/flux-3-video,FLUX 3 Video,video,,720p,,APIMart,,false,,0.136,0.136,second,false,https://yir.ai/models/flux-3-video
+2026-10-30,bfl/flux-3-video,FLUX 3 Video,video,,720p,,Black Forest Labs,,true,,0.15,0.15,second,false,https://yir.ai/models/flux-3-video
+2026-10-30,bfl/flux-3-video,FLUX 3 Video,video,,720p,,FAL,,false,,0.17,0.17,second,false,https://yir.ai/models/flux-3-video
+2026-10-30,prodia/flux-fast-schnell,FLUX Fast Schnell,image,,1K,,FAL,,false,,0.003,0.003,image,false,https://yir.ai/models/flux-fast-schnell
+2026-10-30,prodia/flux-fast-schnell,FLUX Fast Schnell,image,,1K,,Prodia,,true,,0.0025,0.0025,image,false,https://yir.ai/models/flux-fast-schnell
+2026-10-30,bfl/flux-kontext-pro,FLUX Kontext Pro,image,,1MP,,APIMart,,false,,0.032,0.032,image,false,https://yir.ai/models/flux-kontext-pro
+2026-10-30,bfl/flux-kontext-pro,FLUX Kontext Pro,image,,1MP,,Black Forest Labs,,true,,0.04,0.04,image,false,https://yir.ai/models/flux-kontext-pro
+2026-10-30,bfl/flux-pro-1.1-ultra,FLUX1.1 [pro] Ultra,image,,2K,,APIMart,,false,,0.048,0.048,image,false,https://yir.ai/models/flux-pro-1-1-ultra
+2026-10-30,bfl/flux-pro-1.1-ultra,FLUX1.1 [pro] Ultra,image,,2K,,Black Forest Labs,,true,,0.06,0.06,image,false,https://yir.ai/models/flux-pro-1-1-ultra
+2026-10-30,bfl/flux-pro-1.1-ultra,FLUX1.1 [pro] Ultra,image,,2K,,FAL,,false,,0.06,0.06,image,false,https://yir.ai/models/flux-pro-1-1-ultra
+2026-10-30,bfl/flux-pro-1.1,FLUX1.1 [pro],image,,1MP,,APIMart,,false,,0.032,0.032,image,false,https://yir.ai/models/flux-pro-1-1
+2026-10-30,bfl/flux-pro-1.1,FLUX1.1 [pro],image,,1MP,,Black Forest Labs,,true,,0.04,0.04,image,false,https://yir.ai/models/flux-pro-1-1
+2026-10-30,bfl/flux-pro-1.1,FLUX1.1 [pro],image,,1MP,,FAL,,false,,0.08,0.08,image,false,https://yir.ai/models/flux-pro-1-1
+2026-10-30,google/gemini-2.5-flash-image,Nano Banana,image,,1K,,APIMart,,false,,0.0125,0.0125,image,false,https://yir.ai/models/gemini-2-5-flash-image
+2026-10-30,google/gemini-2.5-flash-image,Nano Banana,image,,1K,,Google,,true,,0.039,0.04,image,false,https://yir.ai/models/gemini-2-5-flash-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,APIMart,Special,false,,0.0125,0.0125,image,false,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,APIMart,Standard,false,text,0.0269,0.0269,image,true,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,APIMart,Standard,false,image,0.0271,0.0271,image,true,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,Google,,true,text,0.0336,0.0336,image,true,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,Google,,true,image,0.0339,0.0339,image,true,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-3.1-flash-lite-image,Nano Banana 2 Lite,image,,1K,,KIE,,false,,0.02,0.02,image,false,https://yir.ai/models/gemini-3-1-flash-lite-image
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 1080p,,APIMart,,false,,0.04,0.04,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 1080p,,Google,,true,,0.152,0.152,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 1080p,,KIE,,false,,0.063,0.063,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 4K,,APIMart,,false,,0.09,0.09,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 4K,,Google,,true,,0.3041,0.3041,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 4K,,KIE,,false,,0.105,0.105,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 720p,,APIMart,,false,,0.04,0.04,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 720p,,Google,,true,,0.1014,0.1014,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,10s · 720p,,KIE,,false,,0.063,0.063,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 1080p,,APIMart,,false,,0.0625,0.0625,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 1080p,,Google,,true,,0.152,0.152,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 1080p,,KIE,,false,,0.0788,0.0788,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 4K,,APIMart,,false,,0.1875,0.1875,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 4K,,Google,,true,,0.3041,0.3041,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 4K,,KIE,,false,,0.1838,0.1838,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 720p,,APIMart,,false,,0.0625,0.0625,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 720p,,Google,,true,,0.1014,0.1014,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,4s · 720p,,KIE,,false,,0.0788,0.0788,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 1080p,,APIMart,,false,,0.05,0.05,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 1080p,,Google,,true,,0.152,0.152,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 1080p,,KIE,,false,,0.07,0.07,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 4K,,APIMart,,false,,0.1333,0.1333,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 4K,,Google,,true,,0.3041,0.3041,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 4K,,KIE,,false,,0.14,0.14,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 720p,,APIMart,,false,,0.05,0.05,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 720p,,Google,,true,,0.1014,0.1014,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,6s · 720p,,KIE,,false,,0.07,0.07,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 1080p,,APIMart,,false,,0.0438,0.0438,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 1080p,,Google,,true,,0.152,0.152,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 1080p,,KIE,,false,,0.0656,0.0656,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 4K,,APIMart,,false,,0.1063,0.1063,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 4K,,Google,,true,,0.3041,0.3041,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 4K,,KIE,,false,,0.1181,0.1181,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 720p,,APIMart,,false,,0.0438,0.0438,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 720p,,Google,,true,,0.1014,0.1014,second,true,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,google/gemini-omni-1.1-flash,Gemini Omni 1.1 Flash,video,,8s · 720p,,KIE,,false,,0.0656,0.0656,second,false,https://yir.ai/models/gemini-omni-1-1-flash
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,low,OpenAI,,true,text,0.0087,0.0087,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,medium,OpenAI,,true,text,0.0338,0.0338,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,high,OpenAI,,true,text,0.1331,0.1331,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,low,OpenAI,,true,image,0.0207,0.0207,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,medium,OpenAI,,true,image,0.0458,0.0458,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-1.5,GPT Image 1.5,image,,1K,high,OpenAI,,true,image,0.1451,0.1451,image,true,https://yir.ai/models/gpt-image-1-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,APIMart,Standard,false,text,0.0047,0.0047,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,APIMart,Standard,false,text,0.0105,0.0105,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,APIMart,Standard,false,text,0.0421,0.0421,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,APIMart,Standard,false,text,0.0749,0.0749,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,APIMart,Standard,false,text,0.1686,0.1686,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,APIMart,Standard,false,image,0.0143,0.0143,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,APIMart,Standard,false,image,0.0201,0.0201,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,APIMart,Standard,false,image,0.0517,0.0517,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,APIMart,Standard,false,image,0.0845,0.0845,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,APIMart,Standard,false,image,0.1782,0.1782,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,OpenAI,,true,text,0.0059,0.0059,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,OpenAI,,true,text,0.0132,0.0132,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,OpenAI,,true,text,0.0527,0.0527,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,OpenAI,,true,text,0.0937,0.0937,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,OpenAI,,true,text,0.2107,0.2107,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,OpenAI,,true,image,0.0179,0.0179,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,OpenAI,,true,image,0.0252,0.0252,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,OpenAI,,true,image,0.0647,0.0647,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,OpenAI,,true,image,0.1057,0.1057,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,OpenAI,,true,image,0.2227,0.2227,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,PackyAPI,,false,text,0.0043,0.0043,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,PackyAPI,,false,text,0.0097,0.0097,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,PackyAPI,,false,text,0.0387,0.0387,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,PackyAPI,,false,text,0.0689,0.0689,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,PackyAPI,,false,text,0.1549,0.1549,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,low,PackyAPI,,false,image,0.0131,0.0131,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,medium,PackyAPI,,false,image,0.0185,0.0185,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,high,PackyAPI,,false,image,0.0476,0.0476,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,extra high,PackyAPI,,false,image,0.0777,0.0777,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),1K,maximum,PackyAPI,,false,image,0.1638,0.1638,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,APIMart,Standard,false,text,0.0095,0.0095,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,APIMart,Standard,false,text,0.0214,0.0214,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,APIMart,Standard,false,text,0.0856,0.0856,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,APIMart,Standard,false,text,0.1522,0.1522,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,APIMart,Standard,false,text,0.3425,0.3425,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,APIMart,Standard,false,image,0.0191,0.0191,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,APIMart,Standard,false,image,0.031,0.031,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,APIMart,Standard,false,image,0.0952,0.0952,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,APIMart,Standard,false,image,0.1618,0.1618,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,APIMart,Standard,false,image,0.3521,0.3521,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,OpenAI,,true,text,0.0119,0.0119,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,OpenAI,,true,text,0.0268,0.0268,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,OpenAI,,true,text,0.107,0.107,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,OpenAI,,true,text,0.1903,0.1903,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,OpenAI,,true,text,0.4282,0.4282,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,OpenAI,,true,image,0.0239,0.0239,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,OpenAI,,true,image,0.0388,0.0388,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,OpenAI,,true,image,0.119,0.119,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,OpenAI,,true,image,0.2023,0.2023,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,OpenAI,,true,image,0.4402,0.4402,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,PackyAPI,,false,text,0.0088,0.0088,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,PackyAPI,,false,text,0.0197,0.0197,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,PackyAPI,,false,text,0.0787,0.0787,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,PackyAPI,,false,text,0.1399,0.1399,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,PackyAPI,,false,text,0.3148,0.3148,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,low,PackyAPI,,false,image,0.0176,0.0176,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,medium,PackyAPI,,false,image,0.0285,0.0285,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,high,PackyAPI,,false,image,0.0875,0.0875,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,extra high,PackyAPI,,false,image,0.1487,0.1487,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),2K,maximum,PackyAPI,,false,image,0.3236,0.3236,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,APIMart,Standard,false,text,0.0158,0.0158,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,APIMart,Standard,false,text,0.0356,0.0356,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,APIMart,Standard,false,text,0.1423,0.1423,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,APIMart,Standard,false,text,0.253,0.253,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,APIMart,Standard,false,text,0.5693,0.5693,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,APIMart,Standard,false,image,0.0254,0.0254,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,APIMart,Standard,false,image,0.0452,0.0452,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,APIMart,Standard,false,image,0.1519,0.1519,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,APIMart,Standard,false,image,0.2626,0.2626,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,APIMart,Standard,false,image,0.5789,0.5789,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,OpenAI,,true,text,0.0198,0.0198,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,OpenAI,,true,text,0.0445,0.0445,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,OpenAI,,true,text,0.1779,0.1779,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,OpenAI,,true,text,0.3163,0.3163,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,OpenAI,,true,text,0.7116,0.7116,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,OpenAI,,true,image,0.0318,0.0318,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,OpenAI,,true,image,0.0565,0.0565,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,OpenAI,,true,image,0.1899,0.1899,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,OpenAI,,true,image,0.3283,0.3283,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,OpenAI,,true,image,0.7236,0.7236,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,PackyAPI,,false,text,0.0145,0.0145,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,PackyAPI,,false,text,0.0327,0.0327,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,PackyAPI,,false,text,0.1308,0.1308,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,PackyAPI,,false,text,0.2325,0.2325,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,PackyAPI,,false,text,0.5232,0.5232,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,low,PackyAPI,,false,image,0.0234,0.0234,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,medium,PackyAPI,,false,image,0.0415,0.0415,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,high,PackyAPI,,false,image,0.1396,0.1396,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,extra high,PackyAPI,,false,image,0.2414,0.2414,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Flare (Standard),4K,maximum,PackyAPI,,false,image,0.532,0.532,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,APIMart,Standard,false,text,0.0047,0.0047,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,APIMart,Standard,false,text,0.0105,0.0105,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,APIMart,Standard,false,text,0.0421,0.0421,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,APIMart,Standard,false,text,0.0749,0.0749,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,APIMart,Standard,false,text,0.1686,0.1686,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,APIMart,Standard,false,image,0.0143,0.0143,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,APIMart,Standard,false,image,0.0201,0.0201,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,APIMart,Standard,false,image,0.0517,0.0517,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,APIMart,Standard,false,image,0.0845,0.0845,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,APIMart,Standard,false,image,0.1782,0.1782,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,OpenAI,,true,text,0.0059,0.0059,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,OpenAI,,true,text,0.0132,0.0132,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,OpenAI,,true,text,0.0527,0.0527,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,OpenAI,,true,text,0.0937,0.0937,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,OpenAI,,true,text,0.2107,0.2107,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,OpenAI,,true,image,0.0179,0.0179,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,OpenAI,,true,image,0.0252,0.0252,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,OpenAI,,true,image,0.0647,0.0647,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,OpenAI,,true,image,0.1057,0.1057,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,OpenAI,,true,image,0.2227,0.2227,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,PackyAPI,,false,text,0.0043,0.0043,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,PackyAPI,,false,text,0.0097,0.0097,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,PackyAPI,,false,text,0.0387,0.0387,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,PackyAPI,,false,text,0.0689,0.0689,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,PackyAPI,,false,text,0.1549,0.1549,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,low,PackyAPI,,false,image,0.0131,0.0131,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,medium,PackyAPI,,false,image,0.0185,0.0185,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,high,PackyAPI,,false,image,0.0476,0.0476,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,extra high,PackyAPI,,false,image,0.0777,0.0777,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),1K,maximum,PackyAPI,,false,image,0.1638,0.1638,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,APIMart,Standard,false,text,0.0095,0.0095,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,APIMart,Standard,false,text,0.0214,0.0214,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,APIMart,Standard,false,text,0.0856,0.0856,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,APIMart,Standard,false,text,0.1522,0.1522,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,APIMart,Standard,false,text,0.3425,0.3425,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,APIMart,Standard,false,image,0.0191,0.0191,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,APIMart,Standard,false,image,0.031,0.031,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,APIMart,Standard,false,image,0.0952,0.0952,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,APIMart,Standard,false,image,0.1618,0.1618,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,APIMart,Standard,false,image,0.3521,0.3521,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,KIE,,false,,0.05,0.05,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,OpenAI,,true,text,0.0119,0.0119,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,OpenAI,,true,text,0.0268,0.0268,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,OpenAI,,true,text,0.107,0.107,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,OpenAI,,true,text,0.1903,0.1903,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,OpenAI,,true,text,0.4282,0.4282,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,OpenAI,,true,image,0.0239,0.0239,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,OpenAI,,true,image,0.0388,0.0388,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,OpenAI,,true,image,0.119,0.119,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,OpenAI,,true,image,0.2023,0.2023,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,OpenAI,,true,image,0.4402,0.4402,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,PackyAPI,,false,text,0.0088,0.0088,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,PackyAPI,,false,text,0.0197,0.0197,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,PackyAPI,,false,text,0.0787,0.0787,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,PackyAPI,,false,text,0.1399,0.1399,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,PackyAPI,,false,text,0.3148,0.3148,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,low,PackyAPI,,false,image,0.0176,0.0176,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,medium,PackyAPI,,false,image,0.0285,0.0285,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,high,PackyAPI,,false,image,0.0875,0.0875,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,extra high,PackyAPI,,false,image,0.1487,0.1487,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),2K,maximum,PackyAPI,,false,image,0.3236,0.3236,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,APIMart,Standard,false,text,0.0158,0.0158,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,APIMart,Standard,false,text,0.0356,0.0356,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,APIMart,Standard,false,text,0.1423,0.1423,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,APIMart,Standard,false,text,0.253,0.253,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,APIMart,Standard,false,text,0.5693,0.5693,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,APIMart,Standard,false,image,0.0254,0.0254,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,APIMart,Standard,false,image,0.0452,0.0452,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,APIMart,Standard,false,image,0.1519,0.1519,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,APIMart,Standard,false,image,0.2626,0.2626,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,APIMart,Standard,false,image,0.5789,0.5789,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,APIMart,Special,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,KIE,,false,,0.08,0.08,image,false,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,OpenAI,,true,text,0.0198,0.0198,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,OpenAI,,true,text,0.0445,0.0445,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,OpenAI,,true,text,0.1779,0.1779,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,OpenAI,,true,text,0.3163,0.3163,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,OpenAI,,true,text,0.7116,0.7116,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,OpenAI,,true,image,0.0318,0.0318,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,OpenAI,,true,image,0.0565,0.0565,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,OpenAI,,true,image,0.1899,0.1899,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,OpenAI,,true,image,0.3283,0.3283,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,OpenAI,,true,image,0.7236,0.7236,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,PackyAPI,,false,text,0.0145,0.0145,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,PackyAPI,,false,text,0.0327,0.0327,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,PackyAPI,,false,text,0.1308,0.1308,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,PackyAPI,,false,text,0.2325,0.2325,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,PackyAPI,,false,text,0.5232,0.5232,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,low,PackyAPI,,false,image,0.0234,0.0234,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,medium,PackyAPI,,false,image,0.0415,0.0415,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,high,PackyAPI,,false,image,0.1396,0.1396,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,extra high,PackyAPI,,false,image,0.2414,0.2414,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2.5-flare,GPT Image 2.5,image,Sunburst (Precise),4K,maximum,PackyAPI,,false,image,0.532,0.532,image,true,https://yir.ai/models/gpt-image-2-5
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,APIMart,Standard,false,text,0.0047,0.0047,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,APIMart,Standard,false,text,0.0421,0.0421,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,APIMart,Standard,false,text,0.1686,0.1686,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,APIMart,Standard,false,image,0.0143,0.0143,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,APIMart,Standard,false,image,0.0517,0.0517,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,APIMart,Standard,false,image,0.1782,0.1782,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,APIMart,Special,false,,0.0085,0.0085,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,FAL,,false,text,0.0059,0.0059,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,FAL,,false,text,0.0527,0.0527,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,FAL,,false,text,0.2107,0.2107,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,FAL,,false,image,0.0179,0.0179,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,FAL,,false,image,0.0647,0.0647,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,FAL,,false,image,0.2227,0.2227,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,OpenAI,,true,text,0.0059,0.0059,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,OpenAI,,true,text,0.0527,0.0527,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,OpenAI,,true,text,0.2107,0.2107,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,low,OpenAI,,true,image,0.0179,0.0179,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,medium,OpenAI,,true,image,0.0647,0.0647,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,1K,high,OpenAI,,true,image,0.2227,0.2227,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,APIMart,Standard,false,text,0.0095,0.0095,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,APIMart,Standard,false,text,0.0856,0.0856,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,APIMart,Standard,false,text,0.3425,0.3425,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,APIMart,Standard,false,image,0.0191,0.0191,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,APIMart,Standard,false,image,0.0952,0.0952,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,APIMart,Standard,false,image,0.3521,0.3521,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,FAL,,false,text,0.0119,0.0119,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,FAL,,false,text,0.107,0.107,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,FAL,,false,text,0.4282,0.4282,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,FAL,,false,image,0.0239,0.0239,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,FAL,,false,image,0.119,0.119,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,FAL,,false,image,0.4402,0.4402,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,KIE,,false,,0.025,0.025,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,KIE,,false,,0.025,0.025,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,KIE,,false,,0.025,0.025,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,OpenAI,,true,text,0.0119,0.0119,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,OpenAI,,true,text,0.107,0.107,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,OpenAI,,true,text,0.4282,0.4282,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,low,OpenAI,,true,image,0.0239,0.0239,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,medium,OpenAI,,true,image,0.119,0.119,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,2K,high,OpenAI,,true,image,0.4402,0.4402,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,APIMart,Standard,false,text,0.0158,0.0158,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,APIMart,Standard,false,text,0.1423,0.1423,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,APIMart,Standard,false,text,0.5693,0.5693,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,APIMart,Standard,false,image,0.0254,0.0254,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,APIMart,Standard,false,image,0.1519,0.1519,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,APIMart,Standard,false,image,0.5789,0.5789,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,APIMart,Special,false,,0.022,0.022,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,APIMart,Special,false,,0.022,0.022,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,APIMart,Special,false,,0.022,0.022,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,FAL,,false,text,0.0198,0.0198,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,FAL,,false,text,0.1779,0.1779,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,FAL,,false,text,0.7116,0.7116,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,FAL,,false,image,0.0318,0.0318,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,FAL,,false,image,0.1899,0.1899,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,FAL,,false,image,0.7236,0.7236,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,OpenAI,,true,text,0.0198,0.0198,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,OpenAI,,true,text,0.1779,0.1779,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,OpenAI,,true,text,0.7116,0.7116,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,low,OpenAI,,true,image,0.0318,0.0318,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,medium,OpenAI,,true,image,0.1899,0.1899,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,openai/gpt-image-2,GPT Image 2,image,,4K,high,OpenAI,,true,image,0.7236,0.7236,image,true,https://yir.ai/models/gpt-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,1K,,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,1K,,APIMart,Standard,false,,0.032,0.056,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,1K,,FAL,,false,,0.07,0.07,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,1K,,xAI,,true,,0.04,0.07,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,2K,,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,2K,,APIMart,Standard,false,,0.048,0.072,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,2K,,FAL,,false,,0.09,0.09,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image-2.0,Grok Imagine Image 2.0,image,,2K,,xAI,,true,,0.06,0.09,image,false,https://yir.ai/models/grok-imagine-image-2
+2026-10-30,spacexai/grok-imagine-image,Grok Imagine Image,image,,1K,,APIMart,,false,,0.016,0.0176,image,false,https://yir.ai/models/grok-imagine-image
+2026-10-30,spacexai/grok-imagine-image,Grok Imagine Image,image,,1K,,FAL,,false,,0.02,0.02,image,false,https://yir.ai/models/grok-imagine-image
+2026-10-30,spacexai/grok-imagine-image,Grok Imagine Image,image,,1K,,xAI,,true,,0.02,0.02,image,false,https://yir.ai/models/grok-imagine-image
+2026-10-30,spacexai/grok-imagine-video-1.5-lite,Grok Imagine Video 1.5 Lite,video,,480p,,xAI,,true,,0.02,0.0213,second,false,https://yir.ai/models/grok-imagine-video-1-5-lite
+2026-10-30,spacexai/grok-imagine-video-1.5-lite,Grok Imagine Video 1.5 Lite,video,,720p,,xAI,,true,,0.03,0.0313,second,false,https://yir.ai/models/grok-imagine-video-1-5-lite
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,1080p,,APIMart,,false,,0.2,0.2,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,1080p,,xAI,,true,,0.25,0.25,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,480p,,APIMart,,false,,0.064,0.066,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,480p,,xAI,,true,,0.08,0.0825,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,720p,,APIMart,,false,,0.112,0.114,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video-1.5,Grok Imagine Video 1.5,video,,720p,,xAI,,true,,0.14,0.1425,second,false,https://yir.ai/models/grok-imagine-video-1-5
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 480p,,APIMart,,false,,0.0102,0.0102,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 480p,,xAI,,true,,0.05,0.0502,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 720p,,APIMart,,false,,0.0191,0.0191,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,10s · 720p,,xAI,,true,,0.07,0.0702,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 480p,,APIMart,,false,,0.0102,0.0102,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 480p,,xAI,,true,,0.05,0.0501,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 720p,,APIMart,,false,,0.0191,0.0191,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,15s · 720p,,xAI,,true,,0.07,0.0701,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 480p,,APIMart,,false,,0.0102,0.0102,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 480p,,xAI,,true,,0.05,0.0501,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 720p,,APIMart,,false,,0.0191,0.0191,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,30s · 720p,,xAI,,true,,0.07,0.0701,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 480p,,APIMart,,false,,0.0102,0.0102,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 480p,,xAI,,true,,0.05,0.0503,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 720p,,APIMart,,false,,0.0191,0.0191,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,6s · 720p,,xAI,,true,,0.07,0.0703,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,8s · 480p,,KIE,,false,,0.012,0.012,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,8s · 480p,,xAI,,true,,0.0505,0.0505,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,8s · 720p,,KIE,,false,,0.0225,0.0225,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,spacexai/grok-imagine-video,Grok Imagine Video,video,,8s · 720p,,xAI,,true,,0.0705,0.0705,second,false,https://yir.ai/models/grok-imagine-video
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,1080p,,APIMart,,false,,0.0424,0.0424,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,1080p,,MiniMax,,true,,0.055,0.055,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,10s · 768p,,APIMart,,false,,0.0248,0.0248,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,10s · 768p,,MiniMax,,true,,0.032,0.032,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,6s · 768p,,APIMart,,false,,0.0248,0.0248,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3-fast,Hailuo 2.3 Fast,video,,6s · 768p,,MiniMax,,true,,0.0317,0.0317,second,false,https://yir.ai/models/hailuo-2-3-fast
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,1080p,,APIMart,,false,,0.072,0.072,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,1080p,,KIE,,false,,0.0667,0.0667,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,1080p,,MiniMax,,true,,0.0817,0.0817,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,10s · 768p,,APIMart,,false,,0.0488,0.0488,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,10s · 768p,,KIE,,false,,0.045,0.045,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,10s · 768p,,MiniMax,,true,,0.056,0.056,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,6s · 768p,,APIMart,,false,,0.0488,0.0488,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,6s · 768p,,KIE,,false,,0.0375,0.0375,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,minimax/hailuo-2.3,Hailuo 2.3,video,,6s · 768p,,MiniMax,,true,,0.0467,0.0467,second,false,https://yir.ai/models/hailuo-2-3
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,1080p,,Alibaba,,true,,0.165,0.165,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,1080p,,APIMart,,false,,0.172,0.172,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,1080p,,Higgsfield,,false,,0.18,0.18,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,1080p,,KIE,,false,,0.145,0.145,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,720p,,Alibaba,,true,,0.1238,0.1238,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,720p,,APIMart,,false,,0.13,0.13,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,720p,,Higgsfield,,false,,0.14,0.14,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,alibaba/happyhorse-1.1,HappyHorse 1.1,video,,720p,,KIE,,false,,0.1125,0.1125,second,false,https://yir.ai/models/happyhorse-1-1
+2026-10-30,heygen/heygen-video-1,HeyGen Video 1.0,video,,2K,,HeyGen,,true,,0.1,0.1,second,false,https://yir.ai/models/heygen-video-1
+2026-10-30,heygen/heygen-video-1,HeyGen Video 1.0,video,,768p,,HeyGen,,true,,0.036,0.036,second,false,https://yir.ai/models/heygen-video-1
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · audio,,APIMart,,false,,0.125,0.125,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · audio,,KIE,,false,,0.11,0.11,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · audio,,Kling AI,,true,,0.14,0.14,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · no audio,,APIMart,,false,,0.0625,0.0625,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · no audio,,KIE,,false,,0.055,0.055,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p · no audio,,Kling AI,,true,,0.07,0.07,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p,,APIMart,,false,,0.0914,0.0914,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p,,KIE,,false,,0.09,0.09,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,1080p,,Kling AI,,true,,0.112,0.112,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,720p · no audio,,APIMart,,false,,0.0368,0.0368,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,720p · no audio,,Kling AI,,true,,0.042,0.042,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,720p,,APIMart,,false,,0.0571,0.0571,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,720p,,KIE,,false,,0.055,0.055,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-2.6,Kling 2.6,video,,720p,,Kling AI,,true,,0.07,0.07,second,false,https://yir.ai/models/kling-2-6
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · audio,,APIMart,,false,,0.1344,0.1344,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · audio,,FAL,pro,false,,0.168,0.168,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · audio,,Higgsfield,,false,,0.168,0.168,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · audio,,KIE,,false,,0.135,0.135,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · audio,,Kling AI,,true,,0.168,0.168,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · no audio,,APIMart,,false,,0.0896,0.0896,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · no audio,,FAL,pro,false,,0.112,0.112,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · no audio,,Higgsfield,,false,,0.112,0.112,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · no audio,,KIE,,false,,0.09,0.09,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p · no audio,,Kling AI,,true,,0.112,0.112,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p,,APIMart,,false,,0.1371,0.1371,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p,,FAL,pro,false,,0.168,0.168,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p,,KIE,,false,,0.135,0.135,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,1080p,,Kling AI,,true,,0.168,0.168,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,4K,,APIMart,,false,,0.4286,0.4286,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,4K,,FAL,native4k,false,,0.42,0.42,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,4K,,Higgsfield,,false,,0.42,0.42,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,4K,,KIE,,false,,0.335,0.335,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,4K,,Kling AI,,true,,0.42,0.42,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · audio,,APIMart,,false,,0.1008,0.1008,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · audio,,FAL,,false,,0.126,0.126,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · audio,,Higgsfield,,false,,0.126,0.126,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · audio,,KIE,,false,,0.1,0.1,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · audio,,Kling AI,,true,,0.126,0.126,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · no audio,,APIMart,,false,,0.0672,0.0672,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · no audio,,FAL,,false,,0.084,0.084,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · no audio,,Higgsfield,,false,,0.084,0.084,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · no audio,,KIE,,false,,0.07,0.07,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p · no audio,,Kling AI,,true,,0.084,0.084,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p,,APIMart,,false,,0.1029,0.1029,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p,,FAL,,false,,0.126,0.126,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p,,KIE,,false,,0.1,0.1,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-3.0,Kling 3.0,video,,720p,,Kling AI,,true,,0.126,0.126,second,false,https://yir.ai/models/kling-3
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,1080p,,APIMart,,false,,0.235,0.235,second,false,https://yir.ai/models/kling-4
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,1080p,,KIE,,false,,0.2125,0.2125,second,false,https://yir.ai/models/kling-4
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,1080p,,Kling AI,,true,,0.235,0.235,second,false,https://yir.ai/models/kling-4
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,720p,,APIMart,,false,,0.157,0.157,second,false,https://yir.ai/models/kling-4
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,720p,,KIE,,false,,0.1425,0.1425,second,false,https://yir.ai/models/kling-4
+2026-10-30,klingai/kling-4.0,Kling 4.0,video,,720p,,Kling AI,,true,,0.157,0.157,second,false,https://yir.ai/models/kling-4
+2026-10-30,minimax/minimax-h3-max,MiniMax H3 Max,video,,480p,,APIMart,,false,,0.0377,0.0377,second,false,https://yir.ai/models/minimax-h3-max
+2026-10-30,minimax/minimax-h3-max,MiniMax H3 Max,video,,480p,,MiniMax,,true,,0.05,0.05,second,false,https://yir.ai/models/minimax-h3-max
+2026-10-30,minimax/minimax-h3-max,MiniMax H3 Max,video,,768p,,APIMart,,false,,0.0571,0.0571,second,false,https://yir.ai/models/minimax-h3-max
+2026-10-30,minimax/minimax-h3-max,MiniMax H3 Max,video,,768p,,MiniMax,,true,,0.08,0.08,second,false,https://yir.ai/models/minimax-h3-max
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,2K,,APIMart,,false,,0.0914,0.0914,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,2K,,Higgsfield,,false,,0.13,0.13,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,2K,,KIE,,false,,0.065,0.065,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,2K,,Metaso,,false,,0.0259,0.0259,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,2K,,MiniMax,,true,,0.13,0.13,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,768p,,APIMart,,false,,0.0571,0.0571,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,768p,,FAL,,false,,0.06,0.06,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,768p,,KIE,,false,,0.04,0.04,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,768p,,Metaso,,false,,0.0155,0.0155,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,minimax/minimax-h3,MiniMax H3,video,,768p,,MiniMax,,true,,0.08,0.08,second,false,https://yir.ai/models/minimax-h3
+2026-10-30,meta/muse-image-1.0,Muse Image 1.0,image,,1K,,Meta,,true,,0.01,0.01,image,false,https://yir.ai/models/muse-image-1
+2026-10-30,minimax/music-2.6,MiniMax Music 2.6,audio,,auto lyrics,,MiniMax,,true,,0.16,0.16,track,false,https://yir.ai/models/music-2-6
+2026-10-30,minimax/music-2.6,MiniMax Music 2.6,audio,,Uniform specification,,FAL,,false,,0.15,0.15,track,false,https://yir.ai/models/music-2-6
+2026-10-30,minimax/music-2.6,MiniMax Music 2.6,audio,,Uniform specification,,MiniMax,,true,,0.15,0.15,track,false,https://yir.ai/models/music-2-6
+2026-10-30,minimax/music-3,MiniMax Music 3,audio,,Uniform specification,,FAL,,false,,0.6,0.6,track,false,https://yir.ai/models/music-3
+2026-10-30,minimax/music-3,MiniMax Music 3,audio,,Uniform specification,,MiniMax,,true,,0.15,0.15,track,false,https://yir.ai/models/music-3
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,120s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,120s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,180s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,180s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,240s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,240s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,300s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,300s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,30s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,30s · auto lyrics,,FAL,,false,,0.02,0.02,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,60s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2.5,ElevenLabs Music v2.5,audio,,60s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2-5
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,120s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,120s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,180s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,180s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,240s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,240s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,300s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,300s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,30s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,30s · auto lyrics,,FAL,,false,,0.02,0.02,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,60s · auto lyrics,,ElevenLabs,,true,,0.0025,0.0025,second,false,https://yir.ai/models/music-v2
+2026-10-30,elevenlabs/music-v2,ElevenLabs Music v2,audio,,60s · auto lyrics,,FAL,,false,,0.01,0.01,second,false,https://yir.ai/models/music-v2
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,APIMart,Special,false,,0.012,0.012,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,APIMart,Standard,false,text,0.0269,0.0269,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,APIMart,Standard,false,image,0.0282,0.0282,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,FAL,,false,text,0.0395,0.0395,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,FAL,,false,image,0.0415,0.0415,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,Google,,true,text,0.0336,0.0336,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,Google,,true,image,0.0353,0.0353,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,1K,,KIE,,false,,0.015,0.015,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,APIMart,Special,false,,0.014,0.014,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,APIMart,Standard,false,text,0.0403,0.0403,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,APIMart,Standard,false,image,0.0417,0.0417,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,FAL,,false,text,0.0593,0.0593,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,FAL,,false,image,0.0613,0.0613,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,Google,,true,text,0.0504,0.0504,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,Google,,true,image,0.0521,0.0521,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,2K,,KIE,,false,,0.025,0.025,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,APIMart,Special,false,,0.018,0.018,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,APIMart,Standard,false,text,0.0907,0.0907,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,APIMart,Standard,false,image,0.0921,0.0921,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,FAL,,false,text,0.1334,0.1334,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,FAL,,false,image,0.1354,0.1354,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,Google,,true,text,0.1134,0.1134,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,Google,,true,image,0.1151,0.1151,image,true,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2.1,Nano Banana 2.1,image,,4K,,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/nano-banana-2-1
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,APIMart,Special,false,,0.015,0.015,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,APIMart,Standard,false,text,0.0359,0.0359,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,APIMart,Standard,false,image,0.0363,0.0363,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,FAL,,false,,0.06,0.06,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,Google,,true,text,0.0448,0.0448,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,0.5K,,Google,,true,image,0.0454,0.0454,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,APIMart,Special,false,,0.012,0.012,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,APIMart,Standard,false,text,0.0538,0.0538,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,APIMart,Standard,false,image,0.0542,0.0542,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,FAL,,false,,0.08,0.08,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,Google,,true,text,0.0672,0.0672,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,Google,,true,image,0.0678,0.0678,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,1K,,KIE,,false,,0.025,0.025,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,APIMart,Special,false,,0.014,0.014,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,APIMart,Standard,false,text,0.0806,0.0806,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,APIMart,Standard,false,image,0.0811,0.0811,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,FAL,,false,,0.12,0.12,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,Google,,true,text,0.1008,0.1008,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,Google,,true,image,0.1014,0.1014,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,2K,,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,APIMart,Special,false,,0.018,0.018,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,APIMart,Standard,false,text,0.121,0.121,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,APIMart,Standard,false,image,0.1214,0.1214,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,FAL,,false,,0.16,0.16,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,Google,,true,text,0.1512,0.1512,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,Google,,true,image,0.1518,0.1518,image,true,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-2,Nano Banana 2,image,,4K,,KIE,,false,,0.06,0.06,image,false,https://yir.ai/models/nano-banana-2
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,APIMart,Special,false,,0.02,0.02,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,APIMart,Standard,false,text,0.1075,0.1075,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,APIMart,Standard,false,image,0.1093,0.1093,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,Google,,true,text,0.1344,0.1344,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,Google,,true,image,0.1366,0.1366,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,1K,,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,APIMart,Special,false,,0.02,0.02,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,APIMart,Standard,false,text,0.1075,0.1075,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,APIMart,Standard,false,image,0.1093,0.1093,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,Google,,true,text,0.1344,0.1344,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,Google,,true,image,0.1366,0.1366,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,2K,,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,APIMart,Special,false,,0.03,0.03,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,APIMart,Standard,false,text,0.192,0.192,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,APIMart,Standard,false,image,0.1938,0.1938,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,Google,,true,text,0.24,0.24,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,Google,,true,image,0.2422,0.2422,image,true,https://yir.ai/models/nano-banana-pro
+2026-10-30,google/nano-banana-pro,Nano Banana Pro,image,,4K,,KIE,,false,,0.07,0.07,image,false,https://yir.ai/models/nano-banana-pro
+2026-10-30,bytedance/omnihuman-2.0,OmniHuman 2.0,video,,Uniform specification,,ByteDance,,true,,0.07,0.07,second,false,https://yir.ai/models/omnihuman-2
+2026-10-30,bytedance/omnihuman-2.0,OmniHuman 2.0,video,,Uniform specification,,KIE,,false,,0.07,0.07,second,false,https://yir.ai/models/omnihuman-2
+2026-10-30,alibaba/qwen-image-2.1,Qwen Image 2.1,image,,1K,,FAL,,false,,0.02,0.055,image,false,https://yir.ai/models/qwen-image-2-1
+2026-10-30,alibaba/qwen-image-2.1,Qwen Image 2.1,image,,1K,,KIE,,false,,0.02,0.02,image,false,https://yir.ai/models/qwen-image-2-1
+2026-10-30,alibaba/qwen-image-2.1,Qwen Image 2.1,image,,2K,,FAL,,false,,0.08,0.165,image,false,https://yir.ai/models/qwen-image-2-1
+2026-10-30,alibaba/qwen-image-2.1,Qwen Image 2.1,image,,2K,,KIE,,false,,0.04,0.04,image,false,https://yir.ai/models/qwen-image-2-1
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,1K,,Alibaba,,true,,0.04,0.04,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,1K,,APIMart,,false,,0.0286,0.0286,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,1K,,KIE,,false,,0.032,0.032,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,2K,,Alibaba,,true,,0.075,0.075,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,2K,,APIMart,,false,,0.0571,0.0571,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,alibaba/qwen-image-3.0-pro,Qwen Image 3.0 Pro,image,,2K,,KIE,,false,,0.06,0.06,image,false,https://yir.ai/models/qwen-image-3-pro
+2026-10-30,recraft/recraft-v3,Recraft V3,image,,1K,,APIMart,,false,,0.035,0.035,image,false,https://yir.ai/models/recraft-v3
+2026-10-30,recraft/recraft-v3,Recraft V3,image,,1K,,FAL,,false,,0.04,0.04,image,false,https://yir.ai/models/recraft-v3
+2026-10-30,recraft/recraft-v3,Recraft V3,image,,1K,,Recraft,,true,,0.04,0.04,image,false,https://yir.ai/models/recraft-v3
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,1080p · audio,,APIMart,,false,,0.108,0.108,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,1080p · audio,,ByteDance,,true,,0.1166,0.1166,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,1080p · no audio,,APIMart,,false,,0.108,0.108,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,1080p · no audio,,ByteDance,,true,,0.0583,0.0583,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,480p · audio,,APIMart,,false,,0.0204,0.0204,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,480p · audio,,ByteDance,,true,,0.0241,0.0241,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,480p · no audio,,APIMart,,false,,0.0204,0.0204,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,480p · no audio,,ByteDance,,true,,0.0121,0.0121,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,720p · audio,,APIMart,,false,,0.044,0.044,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,720p · audio,,ByteDance,,true,,0.0518,0.0518,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,720p · no audio,,APIMart,,false,,0.044,0.044,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-1.5-pro,Seedance 1.5 Pro,video,,720p · no audio,,ByteDance,,true,,0.0259,0.0259,second,false,https://yir.ai/models/seedance-1-5-pro
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,1080p · no audio,,APIMart,,false,text / reference media,0.3849,0.3849,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,1080p · no audio,,APIMart,,false,image,0.5346,0.5346,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,1080p · no audio,,ByteDance,,true,,0.5686,0.5686,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,1080p · no audio,,FAL,,false,,1.1372,1.1372,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,1080p · no audio,,KIE,,false,,0.79,0.79,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,APIMart,,false,image,0.0961,0.0961,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,APIMart,,false,text / reference media,0.0961,0.0961,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,ByteDance,,true,image,0.1028,0.1028,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,ByteDance,,true,text / reference media,0.1028,0.1028,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,FAL,,false,,0.2056,0.2056,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,480p,,KIE,,false,,0.14,0.14,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,APIMart,,false,text / reference media,0.216,0.216,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,APIMart,,false,image,0.216,0.216,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,ByteDance,,true,text / reference media,0.2311,0.2311,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,ByteDance,,true,image,0.2312,0.2312,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,FAL,,false,,0.4622,0.4622,second,true,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.5,Seedance 2.5,video,,720p,,KIE,,false,,0.315,0.315,second,false,https://yir.ai/models/seedance-2-5
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,480p,,APIMart,,false,,0.0398,0.0398,second,false,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,480p,,ByteDance,,true,,0.0562,0.0562,second,true,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,480p,,KIE,,false,,0.059,0.059,second,false,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,720p,,APIMart,,false,,0.0856,0.0856,second,false,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,720p,,ByteDance,,true,,0.121,0.121,second,true,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-fast,Seedance 2.0 Fast,video,,720p,,KIE,,false,,0.124,0.124,second,false,https://yir.ai/models/seedance-2-fast
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,480p,,APIMart,,false,,0.0182,0.0182,second,false,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,480p,,ByteDance,,true,,0.0352,0.0352,second,true,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,480p,,KIE,,false,,0.019,0.019,second,false,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,720p,,APIMart,,false,,0.039,0.039,second,false,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,720p,,ByteDance,,true,,0.0756,0.0756,second,true,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0-mini,Seedance 2.0 Mini,video,,720p,,KIE,,false,,0.041,0.041,second,false,https://yir.ai/models/seedance-2-mini
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,1080p,,APIMart,,false,,0.3544,0.3544,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,1080p,,ByteDance,,true,,0.3742,0.3742,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,1080p,,FAL,,false,,0.6804,0.6804,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,1080p,,KIE,,false,,0.51,0.51,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,480p,,APIMart,Standard,false,,0.066,0.066,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,480p,,APIMart,Face exemption,false,,0.0992,0.0992,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,480p,,ByteDance,,true,,0.0703,0.0703,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,480p,,FAL,,false,,0.1406,0.1406,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,480p,,KIE,,false,,0.095,0.095,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,4K,,APIMart,,false,,0.722,0.722,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,4K,,ByteDance,,true,,0.7776,0.7776,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,4K,,FAL,,false,,1.5552,1.5552,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,4K,,KIE,,false,,1.04,1.04,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,720p,,APIMart,Standard,false,,0.142,0.142,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,720p,,APIMart,Face exemption,false,,0.2136,0.2136,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,720p,,ByteDance,,true,,0.1512,0.1512,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,720p,,FAL,,false,,0.3024,0.3024,second,true,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedance-2.0,Seedance 2.0,video,,720p,,KIE,,false,,0.205,0.205,second,false,https://yir.ai/models/seedance-2
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,2K,,APIMart,,false,,0.026,0.026,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,2K,,ByteDance,,true,,0.04,0.04,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,2K,,KIE,,false,,0.0325,0.0325,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,4K,,APIMart,,false,,0.026,0.026,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,4K,,ByteDance,,true,,0.04,0.04,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-4.5,Seedream 4.5,image,,4K,,KIE,,false,,0.0325,0.0325,image,false,https://yir.ai/models/seedream-4-5
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,1K,,APIMart,,false,,0.0293,0.0293,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,1K,,ByteDance,,true,,0.045,0.045,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,1K,,KIE,,false,,0.035,0.035,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,2K,,APIMart,,false,,0.0585,0.0585,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,2K,,ByteDance,,true,,0.09,0.09,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0-pro,Seedream 5.0 Pro,image,,2K,,KIE,,false,,0.07,0.07,image,false,https://yir.ai/models/seedream-5-pro
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,2K,,APIMart,,false,,0.028,0.028,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,2K,,ByteDance,,true,,0.035,0.035,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,2K,,KIE,,false,,0.0275,0.0275,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,3K,,APIMart,,false,,0.028,0.028,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,3K,,ByteDance,,true,,0.035,0.035,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,3K,,KIE,,false,,0.0275,0.0275,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,4K,,APIMart,,false,,0.028,0.028,image,false,https://yir.ai/models/seedream-5
+2026-10-30,bytedance/seedream-5.0,Seedream 5.0 Lite,image,,4K,,ByteDance,,true,,0.035,0.035,image,false,https://yir.ai/models/seedream-5
+2026-10-30,elevenlabs/sound-effects-v2,ElevenLabs Sound Effects v2,audio,,5s,,ElevenLabs,,true,,0.002,0.002,second,false,https://yir.ai/models/sound-effects-v2
+2026-10-30,elevenlabs/sound-effects-v2,ElevenLabs Sound Effects v2,audio,,5s,,FAL,,false,,0.002,0.002,second,false,https://yir.ai/models/sound-effects-v2
+2026-10-30,minimax/speech-2.8-hd,MiniMax Speech 2.8 HD,audio,,characters: 1000,,MiniMax,,true,,0.1,0.1,1K characters,false,https://yir.ai/models/speech-2-8-hd
+2026-10-30,suno/suno-v6-mini,Suno v6 Mini,audio,,2 images,,APIMart,,false,,0.025,0.025,track,false,https://yir.ai/models/suno-v6-mini
+2026-10-30,suno/suno-v6-mini,Suno v6 Mini,audio,,2 images,,KIE,,false,,0.03,0.03,track,false,https://yir.ai/models/suno-v6-mini
+2026-10-30,suno/suno-v6-wild,Suno v6 Wild,audio,,2 images,,APIMart,,false,,0.025,0.025,track,false,https://yir.ai/models/suno-v6-wild
+2026-10-30,suno/suno-v6-wild,Suno v6 Wild,audio,,2 images,,KIE,,false,,0.03,0.03,track,false,https://yir.ai/models/suno-v6-wild
+2026-10-30,suno/suno-v6,Suno v6,audio,,2 images,,APIMart,,false,,0.025,0.025,track,false,https://yir.ai/models/suno-v6
+2026-10-30,suno/suno-v6,Suno v6,audio,,2 images,,KIE,,false,,0.03,0.03,track,false,https://yir.ai/models/suno-v6
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · audio,,APIMart,Special,false,,0.0175,0.0175,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · audio,,APIMart,Standard,false,,0.096,0.096,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · audio,,FAL,,false,,0.15,0.15,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · audio,,Google,,true,,0.12,0.12,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · no audio,,APIMart,Standard,false,,0.08,0.08,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · no audio,,FAL,,false,,0.1,0.1,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,1080p · no audio,,Google,,true,,0.1,0.1,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · audio,,APIMart,Special,false,,0.08,0.08,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · audio,,APIMart,Standard,false,,0.24,0.24,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · audio,,FAL,,false,,0.35,0.35,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · audio,,Google,,true,,0.3,0.3,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · no audio,,APIMart,Standard,false,,0.2,0.2,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · no audio,,FAL,,false,,0.3,0.3,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,4K · no audio,,Google,,true,,0.25,0.25,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · audio,,APIMart,Special,false,,0.0175,0.0175,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · audio,,APIMart,Standard,false,,0.08,0.08,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · audio,,FAL,,false,,0.15,0.15,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · audio,,Google,,true,,0.1,0.1,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · no audio,,APIMart,Standard,false,,0.064,0.064,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · no audio,,FAL,,false,,0.1,0.1,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-fast-generate-001,Veo 3.1 Fast,video,,720p · no audio,,Google,,true,,0.08,0.08,second,false,https://yir.ai/models/veo-3-1-fast-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · audio,,APIMart,Special,false,,0.125,0.125,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · audio,,APIMart,Standard,false,,0.32,0.32,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · audio,,FAL,,false,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · audio,,Google,,true,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · no audio,,APIMart,Standard,false,,0.16,0.16,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · no audio,,FAL,,false,,0.2,0.2,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,1080p · no audio,,Google,,true,,0.2,0.2,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · audio,,APIMart,Special,false,,0.1875,0.1875,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · audio,,APIMart,Standard,false,,0.48,0.48,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · audio,,FAL,,false,,0.6,0.6,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · audio,,Google,,true,,0.6,0.6,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · no audio,,APIMart,Standard,false,,0.32,0.32,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · no audio,,FAL,,false,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,4K · no audio,,Google,,true,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · audio,,APIMart,Special,false,,0.125,0.125,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · audio,,APIMart,Standard,false,,0.32,0.32,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · audio,,FAL,,false,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · audio,,Google,,true,,0.4,0.4,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · no audio,,APIMart,Standard,false,,0.16,0.16,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · no audio,,FAL,,false,,0.2,0.2,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,google/veo-3.1-generate-001,Veo 3.1,video,,720p · no audio,,Google,,true,,0.2,0.2,second,false,https://yir.ai/models/veo-3-1-generate-001
+2026-10-30,alibaba/wan-2.6,Wan 2.6,video,,1080p,,Alibaba,,true,,0.15,0.15,second,false,https://yir.ai/models/wan-2-6
+2026-10-30,alibaba/wan-2.6,Wan 2.6,video,,1080p,,APIMart,,false,,0.084,0.084,second,false,https://yir.ai/models/wan-2-6
+2026-10-30,alibaba/wan-2.6,Wan 2.6,video,,720p,,Alibaba,,true,,0.1,0.1,second,false,https://yir.ai/models/wan-2-6
+2026-10-30,alibaba/wan-2.6,Wan 2.6,video,,720p,,APIMart,,false,,0.05,0.05,second,false,https://yir.ai/models/wan-2-6
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,1K,,Alibaba,,true,,0.075,0.075,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,1K,,APIMart,,false,,0.0544,0.0544,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,1K,,KIE,,false,,0.06,0.06,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,2K,,Alibaba,,true,,0.075,0.075,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,2K,,APIMart,,false,,0.0544,0.0544,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,2K,,KIE,,false,,0.06,0.06,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,4K,,Alibaba,,true,,0.075,0.075,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,4K,,APIMart,,false,,0.0544,0.0544,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image-pro,Wan 2.7 Image Pro,image,,4K,,KIE,,false,,0.06,0.06,image,false,https://yir.ai/models/wan-2-7-image-pro
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,1K,,Alibaba,,true,,0.03,0.03,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,1K,,APIMart,,false,,0.0216,0.0216,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,1K,,KIE,,false,,0.024,0.024,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,2K,,Alibaba,,true,,0.03,0.03,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,2K,,APIMart,,false,,0.0216,0.0216,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7-image,Wan 2.7 Image,image,,2K,,KIE,,false,,0.024,0.024,image,false,https://yir.ai/models/wan-2-7-image
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,1080p,,Alibaba,,true,,0.1434,0.1434,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,1080p,,APIMart,,false,,0.1096,0.1096,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,1080p,,KIE,,false,,0.12,0.12,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,720p,,Alibaba,,true,,0.086,0.086,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,720p,,APIMart,,false,,0.0664,0.0664,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-2.7,Wan 2.7,video,,720p,,KIE,,false,,0.08,0.08,second,false,https://yir.ai/models/wan-2-7
+2026-10-30,alibaba/wan-3.0-prime,Wan 3.0 Prime,video,,1080p,,Alibaba,,true,,0.2544,0.2544,second,false,https://yir.ai/models/wan-3-prime
+2026-10-30,alibaba/wan-3.0-prime,Wan 3.0 Prime,video,,1080p,,FAL,,false,,0.28,0.28,second,false,https://yir.ai/models/wan-3-prime
+2026-10-30,alibaba/wan-3.0-prime,Wan 3.0 Prime,video,,480p,,Alibaba,,true,,0.0636,0.0636,second,false,https://yir.ai/models/wan-3-prime
+2026-10-30,alibaba/wan-3.0-prime,Wan 3.0 Prime,video,,480p,,FAL,,false,,0.068,0.068,second,false,https://yir.ai/models/wan-3-prime
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,1080p,,Alibaba,,true,,0.165,0.165,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,1080p,,APIMart,,false,,0.1315,0.1315,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,1080p,,FAL,,false,,0.2,0.2,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,1080p,,KIE,,false,,0.16,0.16,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,480p,,Alibaba,,true,,0.0413,0.0413,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,480p,,APIMart,,false,,0.0329,0.0329,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,480p,,FAL,,false,,0.05,0.05,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,480p,,KIE,,false,,0.04,0.04,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,720p,,Alibaba,,true,,0.0825,0.0825,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,720p,,APIMart,,false,,0.0658,0.0658,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,720p,,FAL,,false,,0.1,0.1,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/wan-3.0,Wan 3.0,video,,720p,,KIE,,false,,0.08,0.08,second,false,https://yir.ai/models/wan-3
+2026-10-30,alibaba/z-image-turbo,Z-Image Turbo,image,,1K,,Alibaba,,true,,0.015,0.015,image,false,https://yir.ai/models/z-image-turbo
+2026-10-30,alibaba/z-image-turbo,Z-Image Turbo,image,,1K,,APIMart,,false,,0.01,0.01,image,false,https://yir.ai/models/z-image-turbo
+2026-10-30,alibaba/z-image-turbo,Z-Image Turbo,image,,2K,,Alibaba,,true,,0.015,0.015,image,false,https://yir.ai/models/z-image-turbo
+2026-10-30,alibaba/z-image-turbo,Z-Image Turbo,image,,2K,,APIMart,,false,,0.01,0.01,image,false,https://yir.ai/models/z-image-turbo
